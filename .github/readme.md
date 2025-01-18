@@ -9,7 +9,7 @@
    <p>Deadly Dotfiles ~/</p>
 
 
-  <img alt="" src="https://badges.pufler.dev/visits/meyzatech/deadlydots?style=for-the-badge&color=a6da95&logoColor=white&labelColor=24273a"/>
+ 
    <br>
 </div>
 </h1>
