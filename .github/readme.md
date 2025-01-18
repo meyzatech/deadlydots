@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center"> 
-  <img src="https://media.discordapp.net/attachments/987976220165697617/1018815679815753758/unknown.png?width=867&height=488">
+  <img src="https://cdn.discordapp.com/attachments/1058051418369568768/1330168081921740872/FD2D1CC8-0B01-4608-94A0-F6773738EBBE.png?ex=678cff10&is=678bad90&hm=6061f21a192ae24a2116997a63a89cf6c476db325487b00530a53f30f0aa3ff9&?width=867&height=488">
 </p> 
 
 
